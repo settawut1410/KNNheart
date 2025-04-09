@@ -90,6 +90,6 @@ if st.button("ทำนายผล"):
    if out[0] == 1:
     st.image("./img/h1.jpg")
    else:
-    st.image("./img/h3.jpg")
+    st.image("./img/h2.jpg")
 else:
     st.write("ไม่ทำนาย")
